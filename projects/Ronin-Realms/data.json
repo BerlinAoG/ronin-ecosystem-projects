@@ -1,9 +1,9 @@
 {
-  "name": "Project Name",
-  "description": "Project Description",
+  "name": "Ronin Realms",
+  "description": "A story-driven MMORPG, built by the community, for the community",
   "websites":[
     {
-      "url": "https://project.com",
+      "url": "TBA",
       "description":"Website description"
     },
     {
@@ -24,21 +24,17 @@
     }
   ],
   "categories": [
-    "bot",
-    "dao",
-    "finance",
-    "game", 
+    "game",
+    "mmo",
     "nft",
-    "tool",
-    "other"
   ],
   "email": "(optional) myemail@mail.com",
   "social": {
-    "x": "(optional) https://x.com/...",
-    "telegram": "(optional) https://t.me/...",
-    "discord": "(optional) https://discord.gg/...",
-    "facebook" : "(optional) https://www.facebook.com/...",
-    "instagram" : "(optional) https://www.instagram.com/...",
-    "linkedin" : "(optional) https://www.linkedin.com/...",
+    "x": "https://twitter.com/RoninRealms",
+    "telegram": "",
+    "discord": "https://discord.gg/roninrealms",
+    "facebook" : "",
+    "instagram" : "",
+    "linkedin" : "",
   }
 }
